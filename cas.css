@@ -280,7 +280,7 @@ img.logo
   .bglogo{
     opacity: .5;
     position: absolute;
-    top: 0;
+    top: -260;
     left: 0;
     width: 100%;
     height: auto;
