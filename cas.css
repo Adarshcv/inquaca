@@ -288,14 +288,18 @@ img.logo
   }
   .inqtxt{
     font-family: origami;
-    font-size: 50px;
+    font-size: 70px;
     color: white;
     position: relative;
+      top: 500;
   }
   .inqca{
     opacity: 1 !important;
     font-family: racer;
     color: white;
+    position: relative;
+    top: 510;
+    font-size: 40;
   }
   .hero1{
     position: relative;
