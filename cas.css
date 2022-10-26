@@ -160,7 +160,7 @@ img.logo
     text-transform: uppercase;
     text-decoration: none;
     font-family: racer !important;
-    font-size: 40px;
+    font-size: 30px;
     overflow: hidden;
   }
   @keyframes rotate1 {
